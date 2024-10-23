@@ -10,7 +10,7 @@ from langchain.callbacks.base import BaseCallbackHandler
 import streamlit as st
 
 st.set_page_config(
-    page_title="AnandaGPT",
+    page_title="DocumentGPT",
     page_icon="📖"
 )
 
@@ -80,9 +80,7 @@ prompt = ChatPromptTemplate.from_messages(
         (
             "system",
             """
-            Answer the question in Korean using ONLY the following context.
-            If you don't know the answer just say you don't know.
-            DON'T make anything up.
+            Answer the question using ONLY the following context. If you don't know the answer just say you don't know. DON'T make anything up.
             
             Context: {context}
             """,
@@ -94,7 +92,9 @@ prompt = ChatPromptTemplate.from_messages(
 st.title("AnandaGPT")
 
 st.markdown("""
-    ⭐️ 아난다에 오신 걸 환영합니다
+            Welcome!
+            Use this chatbot to ask questions to an AI about your files!
+            Upload your files on the sidebar.
 """)
 
 with st.sidebar:
@@ -106,9 +106,9 @@ with st.sidebar:
 
 if file:
     retriever = embed_file(file)
-    send_message("준비되었습니다", "ai", save=False)
+    send_message("I'm ready! Ask away!", "ai", save=False)
     paint_history()
-    message = st.chat_input("별에게 물어보세요...")
+    message = st.chat_input("Ask anything about your file...")
     if message:
         send_message(message, "human")
         chain = (

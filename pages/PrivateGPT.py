@@ -11,7 +11,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="PrivateGPT",
-    page_icon="📖"
+    page_icon="🤫"
 )
 
 class ChatCallbackHandler(BaseCallbackHandler):
@@ -89,7 +89,9 @@ prompt = ChatPromptTemplate.from_template(
 st.title("AnandaGPT")
 
 st.markdown("""
-    ⭐️ 아난다에 오신 걸 환영합니다
+            Welcome!
+            Use this chatbot to ask questions to an AI about your PRIVATE files!
+            Upload your files on the sidebar.
 """)
 
 with st.sidebar:
@@ -101,9 +103,9 @@ with st.sidebar:
 
 if file:
     retriever = embed_file(file)
-    send_message("준비되었습니다", "ai", save=False)
+    send_message("I'm ready! Ask away!", "ai", save=False)
     paint_history()
-    message = st.chat_input("별에게 물어보세요...")
+    message = st.chat_input("Ask anything about your file...")
     if message:
         send_message(message, "human")
         chain = (

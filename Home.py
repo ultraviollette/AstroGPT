@@ -1,8 +1,19 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="AkasaGPT",
-    page_icon="⭐️"
+    page_title="AstroGPT Home",
+    page_icon="🤖",
 )
 
-st.title("Home")
+st.markdown(
+    """
+# Hello!
+            
+Welcome to my AstroGPT Portfolio⭐️
+            
+Here are the apps I made:
+            
+- [x] [DocumentGPT](/DocumentGPT)
+- [x] [PrivateGPT](/PrivateGPT)
+"""
+)
