@@ -1,0 +1,240 @@
+autumn phase → 가을의 페이스
+aspect → 각
+intercepted sign → 갇힌 궁
+point → 감응점
+fortitude → 강건
+dry → 건조하다
+Cancer → 게자리
+winter phase → 겨울의 페이스
+economy astrology → 경제 점성술
+critical degree → 고비 도수
+loud voice sign → 고성궁
+fixed sign → 고정궁
+traditional astrology → 고전 점성술
+void of course → 공도
+revolution → 공전
+magnitude → 광도
+node → 교점
+nodal degree → 교점 도수
+Greenwich Time → 그리니치 평균시
+culminating sign → 극성궁
+culminating → 극성하다
+radicality → 근원성
+radical → 근원적
+radix → 근원 천궁도
+venus → 금성
+prohibition → 금지
+weather astrology → 기상 점성술
+temperament → 기질
+fall → 기피하는 별자리
+benefic aspect → 길각
+benefic → 길성
+south node → 남교점
+southern sign → 남방궁
+masculine sign → 남성궁
+masculine → 남성적
+inner planet → 내행성
+fruitful sign → 다산궁
+sanguine → 다혈질
+horary astrology → 단시 점성술
+horary horoscope → 단시 천궁도
+moon → 달
+choleric → 담즙질
+great fortune → 대길성
+opposition → 대립각
+great conjunction → 대회합
+great infortune → 대흉성
+degree → 도수
+winter solstice → 동지점
+hot → 뜨겁다
+full moon → 만월
+pluto → 명왕성
+jupiter → 목성
+mute sign → 무언궁
+Pisces → 물고기자리
+Aquarius → 물병자리
+detriment → 디트리먼트
+semisextile → 반육각/30도각
+semisquare → 반직각/45도각
+peregrine → 페러그린
+mutable sign → 변통궁
+minor aspect → 보조각
+essential dignity → 본질적 위계
+spring phase → 봄의 페이스
+north node → 북교점
+northern sign → 북방궁
+equinox → 분점
+barren sign → 불모궁
+translation of light → 빛의 전달
+collection of light → 빛의 수렴
+quarter → 사분원
+Sagittarius → 사수자리
+Leo → 사자자리
+syzygy point → 삭망점
+trine → 삼각/120도각
+tridecile → 삼배십각/108도각
+triseptile → 삼배칠각/약 154도각
+sesquare → 삼배팔각/135도각
+rising sign → 상승궁
+ascendant → 상승점
+rising → 상승하다
+first quarter → 상현달
+mutual reception → 상호 리셉션
+rectification → 생시 보정
+constellation → 성좌
+nature → 성질
+mundane → 먼데인
+lesser fortune → 소길성
+asteroid → 소행성
+lesser infortune → 소흉성
+speed → 속도
+affliction → 손상
+debility → 쇠약
+collection → 수렴
+watery sign → 수상궁
+mercury → 수성
+direct → 순행
+house cusp → 하우스 커스프
+new moon → 신월
+decile → 십각/36도각
+Gemini → 쌍둥이자리
+arabic parts → 아랍식 가상점
+beast sign → 야수궁
+Aries → 양자리
+double body → 양체궁
+summer phase → 여름의 단계
+feminine sign → 여성궁
+retrograde → 역행
+exaltation → 익절테이션
+Capricorn → 염소자리
+divination → 예측
+quintile → 오각/72도각
+quincunx → 오엽각/150도각
+outer planet → 외행성
+accidental dignity → 우발적 위계
+melancholic → 우울질
+motion → 운행
+element → 원소
+lunar eclipse → 월식
+dignity → 위계
+degree table → 위계 도수표
+phase → 위상
+sextile → 육각/60도각
+question → 의뢰
+quesited → 의뢰 대상
+quarent → 의뢰인
+medical → 의학 점성술
+biquintile → 이배오각/144도각
+biseptile → 이배칠각/약 103도각
+waning phase → 이지러지는 위상
+secondary significator → 이차 지표성
+human sign → 인간궁
+daily motion → 일간 운행 속도
+solar eclipse → 일식
+primary significator → 일차 지표성
+rulership → 룰러쉽
+meridian → 자오선
+impediment → 장애
+right ascension → 적경
+declination → 적위
+Scorpio → 전갈자리
+translation → 전달
+astrologer → 점성가
+astrology → 점성술
+phlegmatic → 점액질
+afflication → 접근
+stationary motion → 정지 상태
+frustration → 좌절
+major aspect → 주요각
+disposition → 주재
+dispositor → 주재성
+neuter → 중성적
+midheaven → 중천
+earthly sign → 지상궁
+solstice → 지점
+horizon → 지평선
+significator → 지표성
+square → 직각/90도각
+cold → 차갑다
+waxing phase → 차오르는 단계
+Virgo → 처녀궁
+Virgo → 처녀자리
+Scorpio → 천갈궁
+celestial sphere → 천구
+horoscope → 천궁도
+ephemeris → 천문력
+astronomy → 천문학
+uranus → 천왕성
+imum coeli → 천저점
+medium coeli → 천정점
+celestial body → 천체
+Libra → 천칭자리
+humour → 체액
+autumn equinox → 추분점
+moist → 축축하다
+spring equinox → 춘분점
+natal astrology → 출생 점성술
+nativity → 출생 천궁도
+lord of → 의 로드
+native → 출생 천궁도의 주인
+septile → 칠각/약 51도각
+chaldean order → 칼데아식 순서
+sol → 태양
+solar → 태양의
+election astrology → 택일 점성술
+saturn → 토성
+consideration before judgement → 판단 전의 고려사항
+part of fortune → 포르투나
+besieged → 포위되다
+airy sign → 풍상궁
+profection degree → 프로펙션 도수
+PLACIDUS → 플라시두스
+descendant → 하강점
+derived house → 하우스 파생
+summer solstice → 하지점
+last quarter → 하현달
+Korean Standard Time → 한국고유표준시
+fixed star → 항성
+neptune → 해왕성
+planet → 행성
+fiery sign → 화상궁
+mars → 화성
+cardinal sign → 활동궁
+longitude → 황경
+zodiac → 황도
+eclipse → 황도식
+zodiac → 황도십이궁
+Taurus → 황소자리
+latitude → 황위
+return → 회귀
+refranation → 회피
+conjunction → 회합
+malefic aspect → 흉각
+malefic → 흉성
+malefic degree → 흉한 도수
+malefic → 흉하다
+synastry → 상성법
+
+Taurus: 황소자리 (Fixed Sign, 고정궁)
+Leo: 사자자리 (Fixed Sign, 고정궁)
+Scorpio: 전갈자리 (Fixed Sign, 고정궁)
+Aquarius: 물병자리 (Fixed Sign, 고정궁)
+
+Aries: 양자리 (Cardinal Sign, 활동궁)
+Cancer: 게자리 (Cardinal Sign, 활동궁)
+Libra: 천칭자리 (Cardinal Sign, 활동궁)
+Capricorn: 염소자리 (Cardinal Sign, 활동궁)
+
+Gemini: 쌍둥이자리 (Mutable Sign, 변동궁)
+Virgo: 처녀자리 (Mutable Sign, 변동궁)
+Sagittarius: 사수자리 (Mutable Sign, 변동궁)
+Pisces: 물고기자리 (Mutable Sign, 변동궁)
+
+Fixed Sign: 고정궁
+Cardinal Sign: 활동궁
+Mutable Sign: 변동궁
+
+Mars: 화성
+Venus: 금성
+Saturn: 토성
+Pluto: 명왕성 (고전점성술에서는 행성으로 취급하지 않음)

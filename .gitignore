@@ -2,5 +2,32 @@ env/
 .env
 files/
 .cache/
-.cache/
 .streamlit/
+.final
+
+# FAISS 인덱스 (임베딩 캐시 파일)
+university_faiss_index/
+professors_faiss_index/
+
+# Streamlit 캐시
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Ollama 모델 다운로드 위치 (혹시 프로젝트 내부에 있을 경우 대비)
+ollama_models/
+*.gguf
+
+# 문서 데이터 (보안/저작권 문제 방지)
+university_docs/
+professors/
+
+# Jupyter/VSCode 등 편집기 임시 파일
+.ipynb_checkpoints/
+.vscode/
+*.DS_Store
+*.swp
+
+# 운영체제 별 임시파일
+Thumbs.db
+.DS_Store
