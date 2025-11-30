@@ -307,7 +307,7 @@ with st.sidebar:
     
     # GitHub Link
     st.markdown("---")
-    st.markdown("[GitHub Repo Link](https://github.com/ultraviollette/fullstack-gpt)") 
+    st.markdown("[GitHub Repo Link](https://github.com/ultraviollette/AstroGPT/commit/232bfedd519b0d31f0fc63f661caa81f95305063)") 
 
 # --- Main Quiz Interface Logic ---
 

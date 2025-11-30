@@ -92,7 +92,7 @@ with st.sidebar:
     )
 
     # GitHub Link
-    st.markdown("[GitHub Repo Link](https://github.com/ultraviollette/fullstack-gpt)")
+    st.markdown("[GitHub Repo Link](https://github.com/ultraviollette/AstroGPT/commit/02d2e6976975446db05fc34564a5635924fef94e)")
 
     # File Uploader
     file = st.file_uploader(
