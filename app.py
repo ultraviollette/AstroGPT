@@ -14,6 +14,6 @@ Welcome to my AstroGPT Portfolio⭐️
 Here are the apps I made:
             
 - [x] [DocumentGPT](/DocumentGPT)
-- [x] [PrivateGPT](/PrivateGPT)
+- [x] [QuizGPT](/QuizGPT)
 """
 )
