@@ -250,7 +250,7 @@ with st.sidebar:
         key="api_key_input"
     )
     st.markdown("---")
-    st.markdown("[GitHub Repository Link](https://github.com/ultraviollette/AstroGPT)") 
+    st.markdown("[GitHub Repository Link](https://github.com/ultraviollette/AstroGPT/commit/32e145ff46b3cf6db5f2d460d71bde1d1f977e4a)") 
     st.markdown("---")
 
 
