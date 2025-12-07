@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="AstroGPT Home",
-    page_icon=""⭐️,
+    page_icon="🤖",
 )
 
 st.markdown(
@@ -17,6 +17,5 @@ Here are the apps I made:
 - [x] [QuizGPT](/QuizGPT)
 - [x] [SiteGPT](/SiteGPT)
 - [x] [AssistantGPT](/AssistantGPT)
-
 """
 )
