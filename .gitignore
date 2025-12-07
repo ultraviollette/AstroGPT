@@ -4,6 +4,8 @@ files/
 .cache/
 .streamlit/
 .final
+tools/
+natal_chart_images/
 
 # FAISS 인덱스 (임베딩 캐시 파일)
 university_faiss_index/
@@ -21,6 +23,7 @@ ollama_models/
 # 문서 데이터 (보안/저작권 문제 방지)
 university_docs/
 professors/
+swisseph_ephe/
 
 # Jupyter/VSCode 등 편집기 임시 파일
 .ipynb_checkpoints/
