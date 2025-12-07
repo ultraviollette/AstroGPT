@@ -223,7 +223,7 @@ with st.sidebar:
     )
 
     st.markdown("---")
-    st.markdown("[GitHub Repository Link](https://github.com/ultraviollette/AstroGPT)") 
+    st.markdown("[GitHub Repository Link](https://github.com/ultraviollette/AstroGPT/commit/b44a7b15d7f48a1e4c3016995d16b538d028d11d)") 
     st.markdown("---")
 
     if st.button("Clear Chat History"):
